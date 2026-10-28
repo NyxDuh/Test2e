@@ -1,0 +1,11 @@
+{
+  "type": "preload-native",
+  "name": "BedrockClient",
+  "author": "me",
+  "description": "Overlay client: HUD widgets, crosshair, themes and a touch mod menu.",
+  "version": "0.1.0",
+  "entry": "libBedrockClient.so",
+  "icon": "icon.png",
+  "overwrite_files": [],
+  "overwrite_folders": []
+}
